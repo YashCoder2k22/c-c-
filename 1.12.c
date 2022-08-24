@@ -1,1 +1,1 @@
-Outpit is 7
+Output is 7
